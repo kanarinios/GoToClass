@@ -1,3 +1,4 @@
 {
-    "go_to_class_separator": "_"
+    "go_to_class_separator": "::",
+    "go_to_class_word_separators": "./\\()\"'-,.;<>~!@#$%^&*|+=[]{}`~?"
 }
